@@ -1,0 +1,9 @@
+File directory on JHU Rockfish:
+
+/vast/jlundqu2/modeldata/TUBS
+
+T25 - Fitch parameterization with 25% added TKE
+WRF - no wind farm included in the simulation
+WFP - Fitch parameterization with 100% added TKE
+
+ignore directories with "no_terrain" suffix
