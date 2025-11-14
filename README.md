@@ -13,3 +13,6 @@ Currently, the repository is split into several subdirectories:
 /results: Nice-looking figures, plots, graphs, etc of analyzed data. 
 
 /scripts: All of the computer scripts needed for data processing and visualization. Essentially all written in Python.
+
+
+P.S. I'm very new to Github so please bear with me if there's some things I do to this repo that would make a CS person have a heart attack.
