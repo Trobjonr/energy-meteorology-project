@@ -1,5 +1,5 @@
 # Welcome, hello, and hi.
-My project primarily focuses on comparing the results of Weather Forecasting and Research (WRF) simulation wind profiles to in-situ data for the American Wake Experiment (AWAKEN) field campaign conducted in Oklahoma.
+My project focuses on analyzing the relationship between atmospheric stability and wake recovery using in-situ aircraft data from the American Wake Experiment (AWAKEN) field campaign conducted in Oklahoma.
 
 This repository will contain or reference all of the files necessary for the data analysis portion of my project.
 
