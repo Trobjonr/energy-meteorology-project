@@ -1,3 +1,1 @@
-Figures are very much WIP. Mostly a sanity check at this point to make sure the scripts are running correctly. 
-
-Better formatted figures and some statistical analysis will come soon.
+Figures are mostly self explanatory. Figures all generated directly in Python. Most figures were used in the final report, but some were omitted such as the LIDAR comparison.
